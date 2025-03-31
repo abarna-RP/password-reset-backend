@@ -21,4 +21,4 @@ response: email sent
     "password":"abarna12#"
 }
 response: password reset successfully
-![alt image]()
+![alt image](https://github.com/abarna-RP/password-reset-backend/blob/main/backend.png)
